@@ -13,8 +13,6 @@ Username:- Admin
 
 Admin Code:- 100
 
-For databases you need PhpMyadmin,create databases as per your need.(Refer database daigram in documention Folder.)
-
-For more details and Screenshot Refer Documention Folder PDF..!!
+For databases you need PhpMyadmin,create databases as per your need.
 
 Enjoy the Project..!!!
